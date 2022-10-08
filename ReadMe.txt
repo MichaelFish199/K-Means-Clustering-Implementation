@@ -1,4 +1,4 @@
-In this repository I impemented unsupervised algorythm called K-Means that finds clusters in N dimensional space
+In this repository I impemented unsupervised algorythm called K-Means that finds clusters in N dimensional space.
 
 This repository consits of 4 jpynb files:
     - K-Means_in_1-Dimension.ipynb (almost complete algorythm in 1-dimension)
